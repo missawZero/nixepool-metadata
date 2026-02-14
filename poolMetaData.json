@@ -3,5 +3,5 @@
   "description": "Join our high-performance, low-latency Cardano stake pool proudly hosted on bare-metal servers in France and powered by sustainable electricity.",
   "ticker": "NIXE",
   "homepage": "http://nixe.free.fr", 
-  "extended": "https://cardanoblockchain.fr/extended.json"
+  "extended": "https://raw.githubusercontent.com/missawZero/nixepool-metadata/main/extended.json"
 }
